@@ -17,7 +17,7 @@ if (isset($_SESSION['username']))  {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Login | Latihan Bootstrap Nabil</title>
+    <title>Login | Latihan Bootstrap Nabil Haidar</title>
     <link rel="icon" type="image/x-icon" href="img/logo.png" />
     <link
       rel="stylesheet"
